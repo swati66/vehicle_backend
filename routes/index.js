@@ -27,7 +27,7 @@ router.get('/well', function (req, res, next) {
 
 
 router.get('/wel', function(req, res, next) {
-    res.send('asfhgsfdhafdh');
+    res.send('welcome to heroku ');
 });
 
 module.exports = router;
